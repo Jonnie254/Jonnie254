@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonnie</h1>
-<h3 align="center">A passionate about software development</h3>
+<h3 align="center">Aspire to become a software developer/h3>
 <img src="https://media.licdn.com/dms/image/D4D12AQFYzpJnFY19Ow/article-inline_image-shrink_1500_2232/0/1693062494702?e=1706745600&v=beta&t=PlHgP_O8AnMVSBhG3JPK-yOZS8tZAs5z--GD1O6543c" alt="coding" style="display: flex; justify-content: center; align-items: center; margin: 0; max-width: 100%; max-height: 100%;">
 
 
