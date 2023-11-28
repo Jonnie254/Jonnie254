@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jonnie</h1>
 <h3 align="center">A passionate about software development</h3>
-<img align="right" alt ="coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQFYzpJnFY19Ow/article-inline_image-shrink_1500_2232/0/1693062494702?e=1706745600&v=beta&t=PlHgP_O8AnMVSBhG3JPK-yOZS8tZAs5z--GD1O6543c">
+<img src="https://media.licdn.com/dms/image/D4D12AQFYzpJnFY19Ow/article-inline_image-shrink_1500_2232/0/1693062494702?e=1706745600&v=beta&t=PlHgP_O8AnMVSBhG3JPK-yOZS8tZAs5z--GD1O6543c" alt="coding" style="display: flex; justify-content: center; align-items: center; margin: 0; max-width: 100%; max-height: 100%;">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonnie254&label=Profile%20views&color=0e75b6&style=flat" alt="jonnie254" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonnie254" alt="jonnie254" /></a> </p>
 
 - 🌱 I’m currently learning **Springboot, React Native**
 
