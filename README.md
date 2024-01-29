@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [jonnie254](jonnie254)
 
-- 💬 Ask me about **Java, React, Python**
+- 💬 Ask me about **Java, React, javascript**
 
 - 📫 How to reach me **johnkamanu254@proton.me**
 
